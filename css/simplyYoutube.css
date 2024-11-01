@@ -1,0 +1,8 @@
+.yt-title { font-family: verdana; font-size: 1.2333em; letter-spacing: -0.5px; color: #333; font-weight: bold; }
+.yt-author { font-size: 10px; font-style: italic; color: #669; }
+.yt-content { display:none; }
+.yt-description { display: block; }
+.yt-description #title { font-family: verdana; font-size: 14px; font-weight: bold; color: #333; }
+.yt-vid { position: relative; test-align: justify; }
+.yt-vid img { border: none; }
+.yt-thumbnail { position: relative; }
